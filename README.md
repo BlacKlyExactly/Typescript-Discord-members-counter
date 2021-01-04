@@ -5,7 +5,7 @@ written in typescript, powered by discord.js<br/>
 
 ## Install guide
 
-# 1
+<h3>1</h3>
 https://github.com/BlacKlyExactly/Typescript-Discord-members-counter
 
-# 2
+<h3>2</h3>
