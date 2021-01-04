@@ -6,6 +6,7 @@ written in typescript, powered by discord.js<br/>
 ## Install guide
 
 <h3>1)</h3> 
+
 ```shell
     cd my-default-starter/
     gatsby develop
