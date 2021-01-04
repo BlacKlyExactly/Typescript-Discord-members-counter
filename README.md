@@ -8,8 +8,7 @@ written in typescript, powered by discord.js<br/>
 <h3>1)</h3> 
 
 ```shell
-    cd my-default-starter/
-    gatsby develop
+    git clone https://github.com/BlacKlyExactly/Typescript-Discord-members-counter
 ```
 
 ##
